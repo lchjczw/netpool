@@ -10,13 +10,13 @@ manage and reuse connections.
 Install the package with:
 
 ```bash
-go get gopkg.in/fatih/pool.v2
+go get github.com/lchjczw/netpool.v2
 ```
 
 Import it with:
 
 ```go
-import "gopkg.in/fatih/pool.v2"
+import "github.com/lchjczw/netpool.v2"
 ```
 
 and use `pool` as the package name inside the code.
